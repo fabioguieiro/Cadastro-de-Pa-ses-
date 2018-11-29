@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1530199324 source:c:\users\fabio\desktop\trab paraisópolis\proj\paises\funcoes.c
+	"stdlib.h"
+	"stdio.h"
+	"funcoes.h"
+	<string.h>
+
+1530199325 c:\users\fabio\desktop\trab paraisópolis\proj\paises\funcoes.h
+
+1530198212 source:c:\users\fabio\desktop\trab paraisópolis\proj\paises\main.c
+	"stdio.h"
+	"stdlib.h"
+	"string.h"
+	"funcoes.h"
+

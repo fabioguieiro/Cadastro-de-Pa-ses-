@@ -1,0 +1,63 @@
+Egito             ARABE         A          097.183
+
+Russia            RUSSO         A          146.466
+
+Arab-Saudita      ARABE         A          033.645
+
+Uruguai           ESPANHOL      A          003.463
+
+Ira               FARSI         B          081.937
+
+Marrocos          ARABE         B          035.702
+
+Portugal          PORTUGUES     B          010.224
+
+Espanha           ESPANHOL      B          045.878
+
+Australia         INGLES        C          025.039
+
+Dinamarca         DINAMARQUES   C          005.736
+
+Franca            FRANCES       C          065.210
+
+Peru              ESPANHOL      C          032.543
+
+Argentina         ESPANHOL      D          044.683
+
+Croacia           CROATA        D          004.198
+
+Islandia          ISLANDES      D          000.335
+
+Nigeria           INGLES        D          196.049
+
+Brasil            PORTUGUES     E          213.200
+  
+Costa-Rica        ESPANHOL      E          004.961
+
+Suica             ALEMAO        E          008.753
+
+Servia            SERVIO        E          008.737
+
+Alemanha          ALEMAO        F          081.365
+
+Coreia-Sul        COREANO       F          050.984
+
+Mexico            ESPANHOL      F          131.950
+
+Suecia            SUECO         F          010.008
+
+Belgica           NEERLANDES    G          011.510
+
+Inglaterra        INGLES        G          065.860
+
+Panama            ESPANHOL      G          004.111
+
+Tunisia           ARABE         G          011.698
+
+Colombia          ESPANHOL      H          049.571
+
+Japao             JAPONES       H          126.194
+
+Polonia           POLONES       H          038.639
+
+Senegal           FRANCES       H          016.467
